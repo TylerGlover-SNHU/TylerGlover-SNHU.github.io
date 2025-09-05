@@ -1,4 +1,4 @@
-## Hi there 👋
+# Initial GitHub pages for Capstone project - CS-499
 
 <!--
 **TylerGlover-SNHU/TylerGlover-SNHU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
