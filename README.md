@@ -2,4 +2,4 @@
 
 ## Code Review
 
-<a href="https://www.youtube.com/watch?v=3gjH3afCyv4">Link</a>
+<a href="https://youtu.be/3gjH3afCyv4">Link</a>
