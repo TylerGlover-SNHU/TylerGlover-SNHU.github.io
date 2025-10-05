@@ -58,7 +58,7 @@ class Classifier:
             image = Image.open(filepath) # obtain image
             image_array = format_image_data(image) # format image for prediction
             prob = self.model.predict(image_array) # get prediction vector from model
-            return np.argmax(prob), np.max(prob) # return
+            return np.argmax(prob), np.max(prob), image
 
         # Handle cases where user enters a filename that does not exist
         except FileNotFoundError:
