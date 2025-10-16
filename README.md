@@ -22,11 +22,11 @@ Because the intention of the project is to explore model performance and not jus
 These enhancements demonstrate an understanding of software engineering principles and database usage, as well as machine learning topics and data structures and algorithms more broadly.
 
 The original artifact is linked below:
-<a href="https://github.com/TylerGlover-SNHU/TylerGlover-SNHU.github.io/blob/95ba1a3bb0a88d37eeca1481896ffef1c27d7c26/CS-370Artifact.ipynb">CS-370 Artifact</a>
+<a href="https://github.com/TylerGlover-SNHU/TylerGlover-SNHU.github.io/blob/95ba1a3bb0a88d37eeca1481896ffef1c27d7c26/CS-370Artifact.ipynb" target="_blank">CS-370 Artifact</a>
 
 ## Code Review
 The below link leads to a YouTube video reviewing the original artifact created in class. The purpose of the original artifact and potential improvements are discussed.
-<a href="https://youtu.be/3gjH3afCyv4">YouTube - Code Review</a>
+<a href="https://youtu.be/3gjH3afCyv4" target="_blank">YouTube - Code Review</a>
 
 ## Enhancement One: Algorithms and Data Structures
 
