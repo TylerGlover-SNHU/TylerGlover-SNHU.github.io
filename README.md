@@ -27,3 +27,9 @@ The original artifact is linked below:
 ## Code Review
 The below link leads to a YouTube video reviewing the original artifact created in class. The purpose of the original artifact and potential improvements are discussed.
 <a href="https://youtu.be/3gjH3afCyv4">YouTube - Code Review</a>
+
+## Enhancement One: Algorithms and Data Structures
+
+## Enhancement Two: Software Design and Engineering
+
+## Enhancement Three: Databases
