@@ -20,6 +20,10 @@ Since the original artifact did not classify any new data, I wanted to create a 
 Because the intention of the project is to explore model performance and not just classify new information, a database was added. SQLite was chosen because of its portability. Ideally, the database file could be shared with others so that those interested can benefit from the information gained. Additionally, well tagged data is especially important in machine learning. The command line interface represents an opportunity to obtain tagged image files from the users. The database stores this along with the model performance data that can be accessed by the user to evaluate model performance.
 
 These enhancements demonstrate an understanding of software engineering principles and database usage, as well as machine learning topics and data structures and algorithms more broadly.
+
+The original artifact is linked below:
+<a href="">CS-370 Artifact</a>
+
 ## Code Review
-The project starts with a discussion of the existing code artifact that was enhanced. Possible improvements to the existing code are identified, and the planned enhancements are discussed in the following video.
-<a href="https://youtu.be/3gjH3afCyv4">Link</a>
+The below link leads to a YouTube video reviewing the original artifact created in class. The purpose of the original artifact and potential improvements are discussed.
+<a href="https://youtu.be/3gjH3afCyv4">YouTube - Code Review</a>
